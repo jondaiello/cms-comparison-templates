@@ -10,12 +10,10 @@ In the interest of research, I decided to build my new website out on a few diff
 
 The idea was to build the same site on multiple platforms. I am building them as identically as possible and noting the differences as I go along. The project goals are below:
 
-- Use identical markup and template assets
-- Templates as files
-- The same number of content items with identical content
-- The same link structure (as close as possible)
-- Run the sites on a local MAMP stack to eliminate any server latency issues.
-- Use MySQL for all databases
+- Identical markup and template assets
+- Templates as files (for EE don’t store any template data in the database)
+- Identical content
+- Standardize the environment: (using a local MAMP stack to eliminate any hardware variables)
 
 If you have suggestions for other platforms that you'd like to see me test, feel free to submit an issue.
 
