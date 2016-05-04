@@ -13,6 +13,7 @@ The idea was to build the same site on multiple platforms. I am building them as
 - Identical markup and template assets
 - Templates as files (for EE don’t store any template data in the database)
 - Identical content
+- Keep it native (No add-ons, No plugins. Period.)
 - Standardize the environment: (using a local MAMP stack to eliminate any hardware variables)
 
 If you have suggestions for other platforms that you'd like to see me test, feel free to submit an issue.
