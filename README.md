@@ -2,11 +2,13 @@
 
 In the interest of research, I decided to build my new website out on a few different platforms. The platforms I plan to target are below:
 
-- ExpressionEngine 3.3.x
-- Craft 2.6.x
-- Wordpress 4.5.x
-- Drupal 8.x
-- Statamic 2.x
+- [ExpressionEngine 3.3.x](https://ellislab.com/expressionengine) (Free-$299)
+- [Craft 2.6.x](https://craftcms.com/) (Free-$299+)
+- [Statamic 2.x](https://statamic.com/) ($199+)
+- [Wordpress 4.5.x](https://wordpress.org/) (Free, Open-Source)
+- [Drupal 8.x](https://www.drupal.org/) (Free, Open-Source)
+- [October CMS](https://octobercms.com/) (Free, Open-Source)
+- [Bolt CMS](https://bolt.cm/) (Free, Open-Source)
 
 The idea was to build the same site on multiple platforms. I am building them as identically as possible and noting the differences as I go along. The project goals are below:
 
